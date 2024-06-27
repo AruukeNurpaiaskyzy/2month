@@ -6,5 +6,5 @@
 #         print("это дочерний клсс(Test2)")
 # test = Test()
 # test.print_text()
-class Smartphone()
-    def _init__(self, sim_cards)
+# class Smartphone():
+#     def _init__(self, sim_cards):
